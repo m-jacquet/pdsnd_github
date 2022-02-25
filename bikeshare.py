@@ -1,5 +1,6 @@
 """
 @author: Marion JACQUET
+github profile : m-jacquet
 """
 
 import time
