@@ -18,4 +18,4 @@ washington.csv
 
 ### Credits
 Credits to Udacity, who provided the python template and the dataset.
-
+Github profile: https://github.com/udacity/
